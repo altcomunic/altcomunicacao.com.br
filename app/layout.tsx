@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./hero-revision.css";
 
 export const metadata: Metadata = {
   title: "ALT | Diagnóstico e crescimento de empresas",
